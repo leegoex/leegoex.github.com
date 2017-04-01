@@ -3,7 +3,7 @@
 layout: post
 title: SEMS添加SILK codec支持
 permalink: SEMS添加SILK codec支持.html
-date: 09 april 2008
+date: 01 April 2017
 
 ---     
 SEMS默认是不会编译silk.so插件的，因此如果想要让SEMS支持SILK到其他编码的转换，必须手动给SEMS添加SILK的支持，即需要自己编译SEMS中的silk.so插件。编译的步骤是：
